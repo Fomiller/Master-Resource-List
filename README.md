@@ -3,16 +3,20 @@
 <h2> HTML </h2>
 
 <h2> CSS </h2>
-https://getbootstrap.com/
-<br>
-https://get.foundation/
-
+    <ul>
+        <li>https://getbootstrap.com/</li>
+        <li>https://get.foundation/</li>
+    </ul>
 <h2> Javascript </h2>
 
 <h2> Typography </h2>
-https://fontawesome.com/
+    <ul>
+        <li>https://fontawesome.com/</li>
+    </ul>
 
-<h1> Design </h1>
+<h2> Design </h2>
 
 <h2> Other </h2>
-https://www.smashingmagazine.com/
+    <ul>
+        <li>https://www.smashingmagazine.com/</li>
+    </ul>
