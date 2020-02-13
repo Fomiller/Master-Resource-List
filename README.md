@@ -12,6 +12,7 @@
 <h2> Typography </h2>
     <ul>
         <li>https://fontawesome.com/</li>
+    <li>https://loremipsum.io/</li>
     </ul>
 
 <h2> Design </h2>
