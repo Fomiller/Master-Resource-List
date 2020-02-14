@@ -1,22 +1,37 @@
 # Master-Resource-List
 
-<h2> HTML </h2>
+<!-- <div width="100%" height="100px" background-image="https://miro.medium.com/max/12032/0*fUJ-vxQtDB0ssLX7">
+asldkaslkjdasd
+</div> -->
 
-<h2> CSS </h2>
-    <ul>
-        <li>https://getbootstrap.com/</li>
-        <li>https://get.foundation/</li>
-    </ul>
-<h2> Javascript </h2>
 
-<h2> Typography </h2>
-    <ul>
-        <li>https://fontawesome.com/</li>
-    </ul>
+## CSS 
+- https://getbootstrap.com/
+- https://get.foundation/
 
-<h2> Design </h2>
+## Design
 
-<h2> Other </h2>
-    <ul>
-        <li>https://www.smashingmagazine.com/</li>
-    </ul>
+## Github
+- https://sourcetreeapp.com/
+- https://desktop.github.com/
+
+## HTML
+
+## Javascript
+
+## ReadMe 
+- https://www.makeareadme.com/
+- https://guides.github.com/features/wikis/
+- https://www.markdownguide.org/cheat-sheet/
+
+## Typography
+- https://fontawesome.com/
+
+## Wire framing
+
+- https://balsamiq.com/
+- http://framebox.org/
+
+
+## Other
+- https://www.smashingmagazine.com/
