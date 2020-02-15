@@ -35,3 +35,4 @@ asldkaslkjdasd
 
 ## Other
 - https://www.smashingmagazine.com/
+- https://code.visualstudio.com/docs/editor/codebasics
