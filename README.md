@@ -26,6 +26,7 @@ asldkaslkjdasd
 
 ## Typography
 - https://fontawesome.com/
+- https://fonts.google.com/
 
 ## Wire framing
 
