@@ -11,6 +11,7 @@ asldkaslkjdasd
 
 ## Design
 - https://coolors.co/
+- https://material.io/
 
 ## Github
 - https://sourcetreeapp.com/
