@@ -10,6 +10,7 @@ asldkaslkjdasd
 - https://get.foundation/
 
 ## Design
+- https://coolors.co/
 
 ## Github
 - https://sourcetreeapp.com/
