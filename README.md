@@ -22,7 +22,9 @@ asldkaslkjdasd
 ## Javascript
 
 ## ReadMe 
+- https://shields.io/
 - https://www.makeareadme.com/
+- https://guides.github.com/features/mastering-markdown/
 - https://guides.github.com/features/wikis/
 - https://www.markdownguide.org/cheat-sheet/
 
