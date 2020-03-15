@@ -7,8 +7,11 @@ asldkaslkjdasd
 
 
 ## CSS 
-- https://getbootstrap.com/
-- https://get.foundation/
+* Frameworks
+  * https://getbootstrap.com/
+  * https://get.foundation/
+* Generate boxshadows and gradients.
+  * https://www.cssmatic.com/
 
 ## Design
 - https://coolors.co/
