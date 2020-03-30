@@ -22,11 +22,13 @@
 ## Javascript
 
 ## ReadMe 
-* https://shields.io/
-* https://www.makeareadme.com/
-* https://guides.github.com/features/mastering-markdown/
-* https://guides.github.com/features/wikis/
-* https://www.markdownguide.org/cheat-sheet/
+* create badges for READMES
+  * https://shields.io/
+*Guides for creating a READMES
+  * https://www.makeareadme.com/
+  * https://guides.github.com/features/mastering-markdown/
+  * https://guides.github.com/features/wikis/
+  * https://www.markdownguide.org/cheat-sheet/
 
 ## Typography
 * https://fontawesome.com/
