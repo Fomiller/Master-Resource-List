@@ -63,6 +63,8 @@
   * https://developer.mozilla.org/en-US/docs/Web/API/ServiceWorkerContainer/register
 * Intersection Observer
   * https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API
+* Chart.js
+  * https://www.chartjs.org/
 
 ## MAC OS
 * Terminal (colors)
