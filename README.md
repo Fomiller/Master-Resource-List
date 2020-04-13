@@ -88,7 +88,8 @@
  * https://www.npmjs.com/package/inquirer
 * Jest (testing)
   * https://jestjs.io/en/
-
+* Workbox (service worker)
+  * https://developers.google.com/web/tools/workbox
 
 ## NODE
 * Delete all Node Modules
