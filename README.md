@@ -9,7 +9,6 @@
 * Postman
   * https://www.postman.com/
 
-
 ## CSS 
 * Frameworks
   * https://getbootstrap.com/
@@ -94,6 +93,13 @@
 ## NODE
 * Delete all Node Modules
   * https://winsmarts.com/delete-all-node-modules-folders-recursively-on-windows-edcc9a9c079e
+
+## React
+* Component libraries
+ * https://material-ui.com/
+* Blog posts about component libraries
+ * https://blog.bitsrc.io/11-react-component-libraries-you-should-know-178eb1dd6aa4
+ * https://blog.bitsrc.io/13-top-react-component-libraries-for-2020-488cc810ca49
 
 ## ReadMe 
 * create badges for READMES
