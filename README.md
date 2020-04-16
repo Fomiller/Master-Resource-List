@@ -1,7 +1,7 @@
 # Master-Resource-List
 ![Commits](https://img.shields.io/github/last-commit/fomiller/Master-Resource-List)
 
-## APIS
+## API's
 * Test Api (generates fake data, and allows fake crud operations)
   * https://jsonplaceholder.typicode.com/
 * Image Hosting
