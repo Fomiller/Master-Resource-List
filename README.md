@@ -14,6 +14,7 @@
   * https://getbootstrap.com/
   * https://get.foundation/
   * https://material.io/
+  * https://tailwindcss.com/
 * Generate boxshadows and gradients.
   * https://www.cssmatic.com/
 
