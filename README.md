@@ -90,6 +90,8 @@
   * https://jestjs.io/en/
 * Workbox (service worker)
   * https://developers.google.com/web/tools/workbox
+* Use-immer
+  * https://www.npmjs.com/package/use-immer
 
 ## NODE
 * Delete all Node Modules
@@ -101,6 +103,9 @@
 * Blog posts about component libraries
  * https://blog.bitsrc.io/11-react-component-libraries-you-should-know-178eb1dd6aa4
  * https://blog.bitsrc.io/13-top-react-component-libraries-for-2020-488cc810ca49
+* Hooks
+  * (use-immer)for immutable stae management
+  * https://www.npmjs.com/package/use-immer
 
 ## ReadMe 
 * create badges for READMES
