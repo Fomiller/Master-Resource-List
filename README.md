@@ -39,7 +39,7 @@
 * Phaser.io
   * https://phaser.io/
 
-# Git
+## Git
 * Tips
   * https://about.gitlab.com/blog/2020/04/07/15-git-tips-improve-workflow/
   * https://www.freecodecamp.org/news/useful-tricks-you-might-not-know-about-git-stash-e8a9490f0a1a/
