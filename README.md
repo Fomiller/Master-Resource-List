@@ -24,7 +24,7 @@
   * (create Material ui themes)
     * https://react-theming.github.io/create-mui-theme/
     * https://in-your-saas.github.io/material-ui-theme-editor/
-    * https://material.io/resources/color/#!/? view.left=0&view.right=0&primary.color=212121&secondary.color=69F0AE&primary.text.color=69F0AE&secondary.text.color=212121
+    * https://material.io/resources/color/#!/?view.left=0&view.right=0&primary.color=212121&secondary.color=69F0AE&primary.text.color=69F0AE&secondary.text.color=212121
 
 ## DataBases
 * Sequelize
