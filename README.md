@@ -1,6 +1,11 @@
 # Master-Resource-List
 ![Commits](https://img.shields.io/github/last-commit/fomiller/Master-Resource-List)
 
+
+## Algorithims
+* https://visualgo.net/en
+* https://open4tech.com/time-complexity-of-algorithms/
+
 ## API's
 * Test Api (generates fake data, and allows fake crud operations)
   * https://jsonplaceholder.typicode.com/
@@ -18,7 +23,7 @@
 * Generate boxshadows and gradients.
   * https://www.cssmatic.com/
 
-## Components
+## Component Libraries
 * Material Ui libraries
   * https://mui-treasury.com/
   * (create Material ui themes)
@@ -27,6 +32,8 @@
     * https://material.io/resources/color/#!/?view.left=0&view.right=0&primary.color=212121&secondary.color=69F0AE&primary.text.color=69F0AE&secondary.text.color=212121
   * Material ui templates
     * https://github.com/mui-org/material-ui/tree/master/docs/src/pages/getting-started/templates
+* 13 Component libraries for 2020
+  * https://blog.bitsrc.io/13-top-react-component-libraries-for-2020-488cc810ca49
 
 ## DataBases
 * Sequelize
@@ -40,6 +47,10 @@
   * https://material.io/
 * Buttons
   * https://uxdesign.cc/ui-cheat-sheets-buttons-7329ed9d6112
+
+## Express (Node)
+  * Create Express app
+    * https://github.com/getspooky/create-express-app
 
 ## Games
 * Phaser.io
@@ -60,6 +71,10 @@
 
 ## HTML
 
+## Interviewing
+* Coding questions
+  * https://www.interviewbit.com/
+
 ## Javascript
 * Coding Challenge
   * https://github.com/wesbos/JavaScript30
@@ -75,14 +90,25 @@
   * https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API
 * Chart.js
   * https://www.chartjs.org/
+* Feather.js
+  * https://feathersjs.com/
+  * https://blog.logrocket.com/building-lightning-fast-apis-with-featherjs/
 
 ## MAC OS
 * Terminal (colors)
   * https://osxdaily.com/2013/02/05/improve-terminal-appearance-mac-os-x/
+  
+## MERN
+  * MERN Passport App tut
+    * https://medium.com/@brendt_bly/simple-mern-passport-app-tutorial-4aec2105e367
+  * JSON Webtoken
+    * https://itnext.io/implementing-json-web-tokens-passport-js-in-a-javascript-application-with-react-b86b1f313436
 
 ## MongoDB
 * Install
   * https://medium.com/@LondonAppBrewery/how-to-download-install-mongodb-on-windows-4ee4b3493514
+* Charts
+  * https://www.mongodb.com/blog/post/charts-embedding-sdk-ready
 
 ## NPM Packages
 * Canvas
@@ -102,10 +128,16 @@
   * https://developers.google.com/web/tools/workbox
 * Use-immer
   * https://www.npmjs.com/package/use-immer
+* Foreman
+  * https://www.npmjs.com/package/foreman
 
 ## NODE
 * Delete all Node Modules
   * https://winsmarts.com/delete-all-node-modules-folders-recursively-on-windows-edcc9a9c079e
+  
+## Python
+* Learn Python
+  * https://www.freecodecamp.org/news/the-ultimate-guide-to-python-from-beginner-to-intermediate-to-pro/
 
 ## React
 * Component libraries
@@ -134,12 +166,13 @@
 ## Typing
 * https://www.keybr.com/
 
-## Wire framing
+## VS Code
+  * https://medium.com/productivity-freak/the-ultimate-vscode-setup-for-js-react-6a4f7bd51a2
 
+## Wire framing
 * https://balsamiq.com/
 * http://framebox.org/
 * https://www.noupe.com/design/30-wireframe-examples.html
-
 
 ## Other
 * https://www.smashingmagazine.com/
