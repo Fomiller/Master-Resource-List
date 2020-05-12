@@ -95,6 +95,8 @@
 * Feather.js
   * https://feathersjs.com/
   * https://blog.logrocket.com/building-lightning-fast-apis-with-featherjs/
+* Gatsby.js
+  * https://www.gatsbyjs.org/
 
 ## MAC OS
 * Terminal (colors)
