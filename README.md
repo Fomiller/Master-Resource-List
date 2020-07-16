@@ -6,6 +6,9 @@
 * https://visualgo.net/en
 * https://open4tech.com/time-complexity-of-algorithms/
 
+## Apache webserver
+* https://www.apache.org/
+
 ## API's
 * Test Api (generates fake data, and allows fake crud operations)
   * https://jsonplaceholder.typicode.com/
@@ -74,6 +77,14 @@
 * https://sourcetreeapp.com/
 * https://desktop.github.com/
 * https://github.com/marketplace/travis-ci
+
+## Go
+* https://golang.org/
+  * https://golang.org/ref/spec
+  * https://golang.org/doc/effective_go.html
+* https://godoc.org/ (good one)
+* https://mholt.github.io/json-to-go/
+* https://github.com/avelino/awesome-go
 
 ## HTML
 
@@ -147,6 +158,12 @@
 ## NODE
 * Delete all Node Modules
   * https://winsmarts.com/delete-all-node-modules-folders-recursively-on-windows-edcc9a9c079e
+  
+## PHP
+* https://www.php.net/
+* https://laravel.com/
+  * https://laravel.com/docs/7.x/blade#introduction
+
   
 ## Python
 * Learn Python
