@@ -3,7 +3,37 @@
 
 ## Index
 [Algorithims](#Algorithims)  
-[Apache webserver](#apache-webserver)
+[Apache webserver](#apache-webserver)  
+[APIs](#apis)  
+[CSS](#css)  
+[Component Libraries](#component-libraries)  
+[Design](#design)  
+[Docker](#docker)  
+[Express](#express-node)  
+[Games](#games)  
+[Git](#git)  
+[Github](#github)  
+[Go](#go)  
+[HTML](#html)  
+[Interviewing](#interviewing)  
+[JavaScript](#javascript)  
+[Mac OS](#mac-os)
+[Material ui](#material-ui)
+[MERN](#mern)
+[NPM-Packages](#npm-packages)
+[MongoDB](#mongodb)
+[MySQL](#mysql)
+[Node](#node)
+[PHP](#php)
+[Python](#python)
+[React](#react)
+[ReadME](#readme)
+[Typography](#typography)
+[Typing](#typing)
+[VS-Code](#vs-code)
+[Wire-Framing](#wire-framing)
+[Other](#other)
+
 
 ## Algorithims
 * https://visualgo.net/en
@@ -12,7 +42,7 @@
 ## Apache webserver
 * https://www.apache.org/
 
-## API's
+## APIs
 ### Test Api (generates fake data, and allows fake crud operations)
 * https://jsonplaceholder.typicode.com/
 ### Image Hosting
@@ -54,7 +84,7 @@
 ### CLI tips/tricks
 * https://gist.github.com/BretFisher/70c61f0e6099eb60fcc6bc4569f21da9
 
-## Express (Node)
+## Express Node
 ### Create Express app
 * https://github.com/getspooky/create-express-app
 ### Writing middleware
