@@ -79,10 +79,19 @@
 * https://github.com/marketplace/travis-ci
 
 ## Go
+### Documentation
 * https://golang.org/
   * https://golang.org/ref/spec
   * https://golang.org/doc/effective_go.html
 * https://godoc.org/ (good one)
+### Routers
+ * https://github.com/gin-gonic/gin 
+ * https://github.com/go-chi/chi
+ * https://github.com/gorilla/mux
+ * https://github.com/julienschmidt/httprouter
+ * https://github.com/valyala/fasthttp
+ 
+### Extra
 * https://mholt.github.io/json-to-go/
 * https://github.com/avelino/awesome-go
 
