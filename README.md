@@ -1,6 +1,8 @@
 # Master-Resource-List
 ![Commits](https://img.shields.io/github/last-commit/fomiller/Master-Resource-List)
 
+## Index
+[Algorithims][Algorithims]
 
 ## Algorithims
 * https://visualgo.net/en
