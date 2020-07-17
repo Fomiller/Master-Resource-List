@@ -38,10 +38,6 @@
 ### 13 Component libraries for 2020
 * https://blog.bitsrc.io/13-top-react-component-libraries-for-2020-488cc810ca49
 
-## DataBases
-### Sequelize
-* https://sequelize.org
-
 ## Design
 ### Create color palletes 
 * https://coolors.co/
@@ -142,6 +138,10 @@
 * https://medium.com/@LondonAppBrewery/how-to-download-install-mongodb-on-windows-4ee4b3493514
 ### Charts
 * https://www.mongodb.com/blog/post/charts-embedding-sdk-ready
+
+## MySQL
+### Sequelize ORM
+* https://sequelize.org
 
 ## NPM Packages
 ### Canvas
