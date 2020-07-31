@@ -119,10 +119,12 @@
 * https://github.com/gorilla/mux
 * https://github.com/julienschmidt/httprouter
 * https://github.com/valyala/fasthttp
- 
+### Authenticaiton
+* https://auth0.com/blog/authentication-in-golang/
 ### Extra
 * https://mholt.github.io/json-to-go/
 * https://github.com/avelino/awesome-go
+* https://tutorialedge.net/challenges/go/
 
 ## HTML
 
