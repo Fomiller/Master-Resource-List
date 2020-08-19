@@ -101,6 +101,8 @@
 ### Basics
 * https://www.codeproject.com/Articles/457305/Basic-Git-Command-Line-Reference-for-Windows-Users
 * https://github.com/git-tips/tips
+### Gitignore
+* https://www.toptal.com/developers/gitignore
 
 ## Github
 * https://sourcetreeapp.com/
