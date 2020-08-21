@@ -3,6 +3,7 @@
 
 ## Index
 [Algorithims](#Algorithims)  
+[Angular](#Angular)  
 [Apache webserver](#apache-webserver)  
 [APIs](#apis)  
 [CSS](#css)  
@@ -41,6 +42,10 @@
 
 ## Apache webserver
 * https://www.apache.org/
+
+## Angular
+* https://angular.io/
+* https://rxjs-dev.firebaseapp.com/
 
 ## APIs
 ### Test Api (generates fake data, and allows fake crud operations)
