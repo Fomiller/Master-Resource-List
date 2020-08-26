@@ -132,6 +132,7 @@
 * https://mholt.github.io/json-to-go/
 * https://github.com/avelino/awesome-go
 * https://tutorialedge.net/challenges/go/
+* https://github.com/thoas/go-funk
 
 ## HTML
 
