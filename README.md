@@ -46,6 +46,7 @@
 ## Angular
 * https://angular.io/
 * https://rxjs-dev.firebaseapp.com/
+* https://material.angular.io/
 
 ## APIs
 ### Test Api (generates fake data, and allows fake crud operations)
