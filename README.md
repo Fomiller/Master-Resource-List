@@ -121,6 +121,9 @@
   * https://golang.org/ref/spec
   * https://golang.org/doc/effective_go.html
 * https://godoc.org/ (good one)
+### Creating Config Files
+* https://medium.com/@onexlab.io/golang-config-file-best-practise-d27d6a97a65a  
+* https://dev.to/ilyakaznacheev/a-clean-way-to-pass-configs-in-a-go-application-1g64
 ### Routers
 * https://github.com/gin-gonic/gin 
 * https://github.com/go-chi/chi
