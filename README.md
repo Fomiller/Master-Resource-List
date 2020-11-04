@@ -18,6 +18,7 @@
 [HTML](#html)  
 [Interviewing](#interviewing)  
 [JavaScript](#javascript)  
+[Linux](#linux)  
 [Mac OS](#mac-os)  
 [Material ui](#material-ui)  
 [MERN](#mern)  
@@ -29,6 +30,7 @@
 [Python](#python)  
 [React](#react)  
 [ReadME](#readme)  
+[Terraform](#terraform)  
 [Typography](#typography)  
 [Typing](#typing)  
 [VS-Code](#vs-code)  
@@ -165,6 +167,15 @@
 ### Gatsby.js
 * https://www.gatsbyjs.org/
 
+## Linux
+* https://github.com/jarun/nnn
+* https://vimhelp.org/terminal.txt.html
+* https://www.reddit.com/r/unixporn/wiki/index
+* https://danielmiessler.com/study/vim/
+### Arch Linux
+* https://wiki.archlinux.org/index.php/Main_page
+* https://wiki.archlinux.org/index.php/List_of_applications
+
 ## MAC OS
 ### Terminal (colors)
 * https://osxdaily.com/2013/02/05/improve-terminal-appearance-mac-os-x/
@@ -224,6 +235,13 @@
 ## Python
 ### Learn Python
 * https://www.freecodecamp.org/news/the-ultimate-guide-to-python-from-beginner-to-intermediate-to-pro/
+### Install/Setup
+* https://opensource.com/article/19/5/python-3-default-mac
+* https://github.com/pyenv/pyenv
+* https://gist.github.com/wronk/a902185f5f8ed018263d828e1027009b
+### Django
+* https://www.djangoproject.com/
+* https://github.com/zackargyle/angularjs-django-rest-framework-seed
 
 ## React
 ### Component libraries
@@ -244,6 +262,12 @@
 * https://guides.github.com/features/mastering-markdown/
 * https://guides.github.com/features/wikis/
 * https://www.markdownguide.org/cheat-sheet/
+
+## Terraform
+* https://acode.ninja/recursive-s3-upload-in-terraform/
+* https://stackoverflow.com/questions/49743220/how-do-i-create-an-ssh-key-in-terraform/49792833
+* https://medium.com/johnveldboom/terraform-multi-region-deployment-using-modules-4f94d7833b52
+* https://www.reddit.com/r/Terraform/comments/bj4hi5/best_way_to_handle_multiple_regions_aws/
 
 ## Typography
 * https://fontawesome.com/
